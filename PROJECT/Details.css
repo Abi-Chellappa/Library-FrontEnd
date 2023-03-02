@@ -1,0 +1,71 @@
+.img3
+{
+    position: absolute;
+    left: 0%;
+}
+.book3
+{
+    position: absolute;
+    top: 80px;
+    left: 650px;
+}
+.head3
+{
+    position: absolute;
+    font-size: 40px;
+    
+    font-style: normal;
+    font-family: 'inter';
+    font-weight: 500;
+    left: 560px;
+    top: 200px;
+    width: 380px;
+   color: #850a04;
+   
+}
+.form3
+{
+    position: absolute;
+    left: 450px;
+    top: 150px;
+    height: 1200px;
+    width: 600px;
+    border-radius: 5px;
+    font-size: 20px;
+  background-color: #f2f2f256;
+  padding: 20px;
+}
+
+
+  input[type=text4], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    
+  }
+  
+  input[type=submit] {
+    height: 45px;
+    width: 250px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    box-sizing: border-box;
+  }
+  
+ 
+  label {
+    display: inline-block;
+    width: 250px;
+  }
+  
+
+  
